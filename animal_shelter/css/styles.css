@@ -1,10 +1,21 @@
-.digital p a {
-  font-weight: bold;
-}
-
-.analog p a {
-  font-style: italic;
-}
 html {
   background-color: #FFA07A;
+}
+
+.column {
+  width: 23%;
+  float: left;
+  margin: 12px;
+}
+
+.img {
+  width: 275px;
+}
+.intro {
+  line-height: 2px;
+}
+
+.sidebar {
+  float: left;
+  color: red;
 }
