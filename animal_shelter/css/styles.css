@@ -1,0 +1,10 @@
+.digital p a {
+  font-weight: bold;
+}
+
+.analog p a {
+  font-style: italic;
+}
+html {
+  background-color: #FFA07A;
+}
